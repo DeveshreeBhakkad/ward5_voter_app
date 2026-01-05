@@ -45,4 +45,31 @@ This is part of my personal learning journey in **Flutter, Firebase, and mobile 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/DeveshreeBhakkad/ward5_voter_app.git
+```
 
+2. Open the project in VS Code.
+
+3. Install dependencies:
+```bash
+flutter pub get
+```
+
+4. Connect your Android device or launch an emulator.
+
+5. Run the app:
+```bash
+flutter run
+```
+
+---
+
+🎯 Next Steps
+
+- ✅ Complete Firebase integration for Add Voter and Search Voter.
+- ✅ Add proper data validation and UI improvements.
+- ✅ Prepare the app for Play Store release.
+
+👩‍💻 Author
+
+Deveshree Bhakkad
+Learning Flutter, Firebase, and Mobile App Development
