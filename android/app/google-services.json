@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205561120102",
+    "project_id": "ward5-voter-app",
+    "storage_bucket": "ward5-voter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205561120102:android:555b1cf4fe637f22ccb4a7",
+        "android_client_info": {
+          "package_name": "com.example.ward5_voter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkvZ18ppbDjHc5iDYUyQzbdmTO85atbSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
