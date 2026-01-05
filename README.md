@@ -1,16 +1,48 @@
-# ward5_voter_app
+## 🗳️ Ward 5 Voter App
 
-A new Flutter project.
+A **Flutter** mobile app to manage and search voter information for **Ward 5**.  
 
-## Getting Started
+This is part of my personal learning journey in **Flutter, Firebase, and mobile app development**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔑 **Login Screen**: Sign in with your **name** and **phone number**.  
+- 🏠 **Home Screen**: Main menu with options for managing voters.  
+- ➕ **Add Voter**: Add new voter information to the database.  
+- 🔍 **Search Voter**: Search voters by **name** or **surname**.  
+- 📞 **Add Phone Number**: Add phone numbers for each voter, stored in the app database.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** - Cross-platform mobile app framework  
+- **Dart** - Programming language for Flutter  
+- **Firebase** - Backend for authentication and database (Firestore)  
+- **Git & GitHub** - Version control and repository  
+
+---
+
+## 📝 Project Setup (Done Today)
+
+1. Installed **Flutter & Dart** on Windows and configured with **VS Code**.  
+2. Configured **Git and GitHub** for version control.  
+3. Created Flutter screens:  
+   - `login_screen.dart`  
+   - `home_screen.dart`  
+   - `add_voter_screen.dart`  
+   - `search_voter_screen.dart`  
+4. Set up a **Firebase project** and added `google-services.json`.  
+5. Linked the local project to **GitHub** and pushed the initial commit.  
+6. Tested the app on my **Samsung A70s** and connected device.  
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/DeveshreeBhakkad/ward5_voter_app.git
+
