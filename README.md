@@ -72,4 +72,4 @@ flutter run
 👩‍💻 Author
 
 Deveshree Bhakkad
-Learning Flutter, Firebase, and Mobile App Development
+- Learning Flutter, Firebase, and Mobile App Development
